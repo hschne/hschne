@@ -7,5 +7,5 @@
   
   
 :gem: Ruby Developer from Vienna :austria:  
-:heavy_check_mark: I'm really into testing, maintainability and developer experience :fire:  
+:heavy_check_mark: I'm into testing, maintainability and developer experience :fire:  
 🏔️ Love hiking and climbing. Sci-Fi connaisseur 👽
